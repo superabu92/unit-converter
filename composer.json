@@ -1,0 +1,16 @@
+{
+    "name": "superabu92/unit-converter",
+    "description": "This package provides a wide range of units from around the world, allowing developers to seamlessly convert between different measurement systems.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Superabu92\\UnitConverter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yes"
+        }
+    ],
+    "require": {}
+}
